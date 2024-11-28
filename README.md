@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Singhania </h1>
-<center><img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966"></center>
-<h3 align="center">An Enthusiast Learner || Rookie in MERN Stack Development || Intermediate in CP || Nit'25</h3>
+<center><img align="center" alt="coding" width="400" src="![Black and Yellow Web Developer LinkedIn Banner (1)](https://github.com/user-attachments/assets/7bdf36a0-e830-441a-9881-74f9b6711d0d)
+"></center>
+<h3 align="center">An Enthusiast Learner || MERN Developer || Intermediate in CP || Nit'25</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekylearner-03&label=Profile%20views&color=0e75b6&style=flat" alt="geekylearner-03" /> </p>
 
