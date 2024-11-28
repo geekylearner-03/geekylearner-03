@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Singhania </h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/7bdf36a0-e830-441a-9881-74f9b6711d0d" alt="coding" width="900">
+  <img src="https://github.com/user-attachments/assets/07994809-14c6-46e6-8437-961f20e9abfc" alt="coding" width="900">
 </div>
 
 <h3 align="center">An Enthusiast Learner || MERN Developer || Intermediate in CP || Nit'25</h3>
