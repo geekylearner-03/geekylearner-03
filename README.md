@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sakshi Singhania </h1>
-<center><img align="center" alt="coding" width="400" src="![Black and Yellow Web Developer LinkedIn Banner (1)](https://github.com/user-attachments/assets/7bdf36a0-e830-441a-9881-74f9b6711d0d)
-"></center>
+<center>
+  <img align="center" alt="coding" width="400" src="https://github.com/user-attachments/assets/7bdf36a0-e830-441a-9881-74f9b6711d0d">
+</center>
+
 <h3 align="center">An Enthusiast Learner || MERN Developer || Intermediate in CP || Nit'25</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekylearner-03&label=Profile%20views&color=0e75b6&style=flat" alt="geekylearner-03" /> </p>
