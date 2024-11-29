@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sakshi Singhania </h1>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/07994809-14c6-46e6-8437-961f20e9abfc" alt="coding" width="900">
+  <img src="https://github.com/user-attachments/assets/993bb25f-5bba-4258-98b6-671d249ef935" alt="coding" width="900">
 </div>
+
 
 <h3 align="center">An Enthusiast Learner || MERN Developer || Intermediate in CP || Nit'25</h3>
 
